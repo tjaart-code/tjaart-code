@@ -1,8 +1,8 @@
-# tjaart-code
+## Hi there,
 
 Welcome to the tjaart-code GitHub profile! This repository showcases various projects primarily focused on Python scripting and Joomla development. 
 
-## Projects
+### Projects
 
 - **python3-bruteStringer**: Generates all possible strings of specified lengths using a character set.
 - **python3-imgDel**: Deletes duplicate images from specified directories.
