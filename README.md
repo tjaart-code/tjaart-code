@@ -1,16 +1,14 @@
-## Hi there 👋
+# tjaart-code
 
-<!--
-**tjaart-code/tjaart-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the tjaart-code GitHub profile! This repository showcases various projects primarily focused on Python scripting and Joomla development. 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **python3-bruteStringer**: Generates all possible strings of specified lengths using a character set.
+- **python3-imgDel**: Deletes duplicate images from specified directories.
+- **python3-imgRename**: Renames images in a sequential format.
+- **Joomla_5**: Displays code with syntax highlighting tailored for Joomla 5.
+- **python3-genPassword**: A versatile password generator for secure password creation.
+
+Feel free to explore the projects and contribute!
+
