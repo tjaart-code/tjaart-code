@@ -1,6 +1,6 @@
 ## Hi there, :wave:
 
-Welcome to the tjaart-code GitHub profile! This repository showcases various projects primarily focused on Python scripting and Joomla development. 
+Welcome to my GitHub profile! This repository showcases basic code primarily focused on Python scripting and Joomla development. 
 
 ### Projects
 
