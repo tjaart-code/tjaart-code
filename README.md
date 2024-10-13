@@ -4,11 +4,11 @@ Welcome to my GitHub profile! This repository showcases basic code primarily foc
 
 ### Projects
 
-- **python3-bruteStringer**: Generates all possible strings of specified lengths using a character set.
-- **python3-imgDel**: Deletes duplicate images from specified directories.
-- **python3-imgRename**: Renames images in a sequential format.
-- **Joomla_5**: Displays code with syntax highlighting tailored for Joomla 5.
-- **python3-genPassword**: A versatile password generator for secure password creation.
+- **Brute-String-Generator**: Generates all possible strings of specified lengths using a character set.
+- **Delete-Duplicate-Images**: Deletes duplicate images from specified directories.
+- **Image-Renamer**: Renames images in a sequential format.
+- **Generate-Passwords**: A versatile password generator for secure password creation.
+- **Joomla5-Plugin**: Displays code with syntax highlighting tailored for Joomla 5.
 
 Feel free to explore the projects and contribute!
 
