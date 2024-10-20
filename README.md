@@ -1,6 +1,6 @@
 ## Hi there, :wave:
 
-Welcome to my GitHub profile! This repository showcases basic code primarily focused on Python scripting and Joomla development. 
+Welcome to my GitHub profile! This repository is primarily focused on Python scripting and some Joomla development. 
 
 ### Projects
 
@@ -11,4 +11,3 @@ Welcome to my GitHub profile! This repository showcases basic code primarily foc
 - **Joomla5-Plugin**: Displays code with syntax highlighting tailored for Joomla 5.
 
 Feel free to explore the projects and contribute!
-
